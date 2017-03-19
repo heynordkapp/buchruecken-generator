@@ -1,0 +1,16 @@
+Where do I install the InDesign scripts?
+
+Open up InDesign.
+Go to Window > Utilities > Scripts Palette
+In the list, right-click on "User" and select "Show in Finder" (Mac) or "Show in Explorer" (Win)
+Place the script file in this folder.
+It will show up in the InDesign scripts afterwards.
+
+
+Wo werden InDesign-Skripte installiert?
+
+InDesign öffnen.
+Fenster > Hilfsprogramme > Skripte öffnen
+In der List auf "Benutzer" rechtsklicken und "Im Finder anzeigen" (Mac) oder "Im Explorer anzeigen" (Win)
+Skript in diesem Ordner platzieren.
+Es wird in der InDesign-Skripte-Palette sichtbar.
